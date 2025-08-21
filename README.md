@@ -50,14 +50,4 @@ The extension requires the following permissions:
 
 ## **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://grok.com/chat/LICENSE) file for details.
-
-## **Contributing**
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
-
-## **Author**
-
-Afnan Siddiqui
-
-© 2025 Afnan Siddiqui
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/afnan-nex/yt-watchlater-exporter/blob/main/LICENSE) file for details.
