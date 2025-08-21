@@ -1,0 +1,1 @@
+document.getElementById('export').addEventListener('click', () => {  chrome.tabs.create({ url: "https://www.youtube.com/playlist?list=WL" });});

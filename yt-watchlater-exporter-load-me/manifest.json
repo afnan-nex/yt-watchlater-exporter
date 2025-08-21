@@ -1,0 +1,1 @@
+{  "manifest_version": 3,  "name": "Watch Later Exporter",  "version": "1.0",  "permissions": [    "tabs",    "scripting"  ],  "host_permissions": [    "https://www.youtube.com/*"  ],  "action": {    "default_popup": "popup.html"  },  "content_scripts": [    {      "matches": ["https://www.youtube.com/playlist?list=WL"],      "js": ["content.js"]    }  ]}

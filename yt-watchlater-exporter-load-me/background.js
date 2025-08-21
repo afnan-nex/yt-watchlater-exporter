@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(() => {  console.log('YouTube Subscriptions Manager Extension Installed');});
